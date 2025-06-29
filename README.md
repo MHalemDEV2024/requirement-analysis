@@ -50,4 +50,25 @@ When software is built according to well-analyzed and validated requirements, it
 
 Requirement Analysis ultimately helps minimize risks, improves collaboration, and lays a strong foundation for a successful, user-centered software product.
 
+## Key Activities in Requirement Analysis
+
+The Requirement Analysis phase consists of several critical activities that ensure software requirements are accurate, complete, and aligned with stakeholder needs. Below are the five key activities involved:
+
+- **Requirement Gathering**  
+  This is the initial step where information is collected from stakeholders, users, and subject matter experts. It involves understanding the high-level needs, business goals, and pain points that the software must address.
+
+- **Requirement Elicitation**  
+  Elicitation goes beyond simple collection by engaging with stakeholders using interviews, surveys, workshops, brainstorming sessions, and observation techniques. The goal is to uncover both stated and unstated requirements.
+
+- **Requirement Documentation**  
+  After collecting and clarifying requirements, they are formally documented in a structured format such as a Software Requirements Specification (SRS) document. This documentation serves as a reference point for design, development, and testing.
+
+- **Requirement Analysis and Modeling**  
+  In this phase, requirements are analyzed for consistency, feasibility, and completeness. Models such as use case diagrams, user stories, flowcharts, or data models may be created to visually represent the system behavior and interactions.
+
+- **Requirement Validation**  
+  The final step ensures that the documented requirements accurately reflect the needs of stakeholders. Validation techniques include reviews, walkthroughs, and prototyping. This step helps catch issues early before moving into design and development.
+
+Each of these activities plays a vital role in reducing misunderstandings, improving product quality, and aligning the final solution with user and business needs.
+
 
