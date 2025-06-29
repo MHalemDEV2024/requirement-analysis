@@ -123,4 +123,42 @@ The following diagram illustrates the main actors and use cases for the hotel bo
 ![Booking Use Case Diagram](alx-booking-uc.png)
 
 
+## Acceptance Criteria
+
+### What are Acceptance Criteria?
+
+Acceptance Criteria are a set of predefined requirements that must be met for a feature or user story to be considered complete and accepted by stakeholders. They define the boundaries of a user story and ensure the development team understands exactly what needs to be built.
+
+### Importance in Requirement Analysis
+
+- ✅ Clarify expectations between stakeholders and developers
+- ✅ Reduce ambiguity in requirements
+- ✅ Guide test case development and validation
+- ✅ Ensure feature completeness and usability
+- ✅ Improve communication among cross-functional teams
+
+---
+
+### Example: Checkout Feature – Acceptance Criteria
+
+**User Story**:  
+_As a customer, I want to securely complete the payment for my hotel booking so that I can confirm my reservation._
+
+**Acceptance Criteria:**
+
+1. ✅ **Payment Gateway Integration**: The system must integrate with a third-party payment gateway to handle transactions.
+2. ✅ **Payment Methods**: The customer must be able to pay using credit/debit card or digital wallet.
+3. ✅ **Secure Transaction**: All payment data must be encrypted using SSL/TLS.
+4. ✅ **Validation**: The system must validate all payment fields (e.g., card number, CVV, expiry date).
+5. ✅ **Booking Confirmation**: Upon successful payment, a booking confirmation email and message must be sent to the customer.
+6. ✅ **Transaction Failure Handling**: If payment fails, the system should provide an appropriate error message and allow retry.
+7. ✅ **Booking Locking**: The booking slot must be temporarily locked during the checkout to prevent double booking.
+8. ✅ **Payment Logging**: The transaction must be logged for auditing purposes.
+
+---
+
+By clearly defining acceptance criteria, we ensure that both business goals and user needs are satisfied, and we create a shared understanding across the team.
+
+
+
 
